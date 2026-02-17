@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+dist/
+*.egg-info/
+.claude/
+CLAUDE.md
+*.log
+CProjectsProductionProof*/
